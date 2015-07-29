@@ -8,3 +8,4 @@ List of projects/companies:
 
 - OpenLearning (https://www.openlearning.com/)
 - Vegas Slots (https://www.facebook.com/games/vegas_slots/) - SC is used to keep track of player credits in realtime.
+- LigaMX (http://www.ligamx.net/), AscensoMX (http://www.ascensomx.net/), CopaMX (http://www.lacopamx.net/) - SC is used to display realtime scores (play by play), results, notifications, timer, time line.
